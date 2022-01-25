@@ -1,0 +1,8 @@
+https://www.vhdl-online.de/courses/system_design/start
+https://ghdl.github.io/ghdl/quick_start/simulation/hello/index.html
+https://vhdlwhiz.com/the-modelsim-commands-you-need-to-know/
+https://www.edaboard.com/blog/blog/
+https://www.edaplayground.com/x/A4
+https://www.youtube.com/watch?v=KRYcpd0i9cc
+https://www.youtube.com/playlist?list=PLZv8x7uxq5XY-IQfQFb6mC6OXzz0h8ceF
+https://www.csee.umbc.edu/portal/help/VHDL/index.shtml#free
